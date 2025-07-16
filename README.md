@@ -33,7 +33,7 @@ Once the application is running:
 * If the program finds your MetaMask vault data, it will display it in the "MetaMask Vault Data" text area after the decompression and search are complete.
 * You can also optionally enter an Ethereum (ETH) address in the "Search ETH Address" field. The program will search for this address within the decompressed content, helping you confirm if it's the correct file.
 
-## Decrypting Your Vault Data (Advanced)
+## Decrypting Your Vault Data
 
 After successfully extracting your MetaMask vault data using this decompressor, you can proceed to decrypt it to recover your seed phrase (secret recovery phrase).
 
