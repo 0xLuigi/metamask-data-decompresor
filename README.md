@@ -31,4 +31,11 @@ Once the application is running:
 * Click the **"Decompress"** button.
 * Within a few seconds, your file will be processed and saved as a text file named `[original_file_name]_decompressed.txt` in the same directory.
 * If the program finds your MetaMask vault data, it will display it in the "MetaMask Vault Data" text area after the decompression and search are complete.
-* You can also optionally enter an Ethereum (ETH) address in the "Search ETH Address" field. The program will search for this address within the decompressed content, helping you confirm if it's the correct file.       
+* You can also optionally enter an Ethereum (ETH) address in the "Search ETH Address" field. The program will search for this address within the decompressed content, helping you confirm if it's the correct file.
+
+ ## 💖 Support the Project
+
+If this tool helped you fix your MetaMask wallet, consider supporting the development:
+
+- **Bitcoin (BTC):** `bc1qgug43r48cceja46j9nmj686wps5vad8appytsh`
+- **Ethereum (ETH):** `0x8A00f43C099bEB3F5d3C289e8b93c71c32B4d52e`     
