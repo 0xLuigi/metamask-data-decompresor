@@ -33,6 +33,23 @@ Once the application is running:
 * If the program finds your MetaMask vault data, it will display it in the "MetaMask Vault Data" text area after the decompression and search are complete.
 * You can also optionally enter an Ethereum (ETH) address in the "Search ETH Address" field. The program will search for this address within the decompressed content, helping you confirm if it's the correct file.
 
+## Decrypting Your Vault Data (Advanced)
+
+After successfully extracting your MetaMask vault data using this decompressor, you can proceed to decrypt it to recover your seed phrase (secret recovery phrase).
+
+1.  **Download the Official MetaMask Vault Decryptor:**<br>
+    Get the official decryptor tool from MetaMask's GitHub repository:<br>
+   https://github.com/MetaMask/vault-decryptor
+
+2.  **Extract the Decryptor:**
+    Unzip the downloaded `vault-decryptor-master.zip` file to a convenient location, such as your desktop.
+
+3.  **Open the Decryptor:**
+    Navigate to the extracted `vault-decryptor-master` folder and open the `index.html` file in your web browser.
+
+4.  **Use Your Decompressed Vault Data:**
+    Follow the instructions provided on the `index.html` page to use the MetaMask vault data you extracted with this tool. You will typically paste the JSON vault data into the decryptor to proceed with recovering your seed phrase.    
+
  ## 💖 Support the Project
 
 If this tool helped you fix your MetaMask wallet, consider supporting the development:
