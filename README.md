@@ -1,3 +1,5 @@
+## MetaMask Data Decompresor v1.5
+
 ![MetaMask Decompressor Screenshot](https://github.com/0xLuigi/metamask-data-decompresor/blob/main/images/screenshot.gif)
 
 You can find instructions on how to locate your MetaMask Firefox data here: <br>
