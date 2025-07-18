@@ -1,4 +1,4 @@
-## MetaMask Data Decompresor v1.5
+## MetaMask Data Decompresor v1.5 (For Firefox Users)
 
 ![MetaMask Decompressor Screenshot](https://github.com/0xLuigi/metamask-data-decompresor/blob/main/images/screenshot.gif)
 
