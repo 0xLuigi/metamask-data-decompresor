@@ -1,4 +1,4 @@
-![MetaMask Decompressor Screenshot](https://github.com/0xLuigi/metamask-data-decompresor/blob/main/images/screenshot.png)
+![MetaMask Decompressor Screenshot](https://github.com/0xLuigi/metamask-data-decompresor/blob/main/images/screenshot.gif)
 
 You can find instructions on how to locate your MetaMask Firefox data here: <br>
 https://community.metamask.io/t/metamask-blank-screen-on-firefox-but-no-seed/12971/32
