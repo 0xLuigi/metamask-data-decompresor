@@ -30,6 +30,8 @@ https://community.metamask.io/t/metamask-blank-screen-on-firefox-but-no-seed/129
     ```
     This will launch the graphical user interface (GUI).
 
+**New!** The tool now includes a standalone `.exe` version for Windows, so you can try it without installing Python! 
+
  ## Usage
 
 Once the application is running:
@@ -57,6 +59,7 @@ Alternatively, you can use my custom Python-based Vault Data Decryptor, which is
 - After decompressing your vault data and seeing it in the "MetaMask Vault Data" text area, click the "Decrypt MetaMask Data" button. This will launch the Python version of the decryptor.
 - The decryptor will open a GUI where you can paste the vault data (if needed) and enter your password to decrypt and recover your seed phrase.
 - Ensure the `vault_decryptor.py` script is in the same directory as `mm_decomp.py`, and that the `cryptography` package is installed (see Installation steps above).
+- If you have concerns about using my decryptor, please use the official MetaMask Vault decryptor listed above.
 
  ## 💖 Support the Project
 
