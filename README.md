@@ -57,6 +57,7 @@ After successfully extracting your MetaMask vault data using this decompressor, 
 ### Option 2: Try My Vault Data Decryptor (Python Version)
 Alternatively, you can use my custom Python-based Vault Data Decryptor, which is integrated with this tool:
 - After decompressing your vault data and seeing it in the "MetaMask Vault Data" text area, click the "Decrypt MetaMask Data" button. This will launch the Python version of the decryptor.
+- The keyboard shortcut to launch the Metamask Vault Decryptor is Ctrl + D.
 - The decryptor will open a GUI where you can paste the vault data (if needed) and enter your password to decrypt and recover your seed phrase.
 - Ensure the `vault_decryptor.py` script is in the same directory as `mm_decomp.py`, and that the `cryptography` package is installed (see Installation steps above).
 - If you have concerns about using my decryptor, please use the official MetaMask Vault decryptor listed above.
