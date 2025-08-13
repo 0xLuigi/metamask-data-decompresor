@@ -69,10 +69,14 @@ Alternatively, you can use my custom Python-based Vault Data Decryptor, which is
 - Ensure the `vault_decryptor.py` script is in the same directory as `mm_decomp.py`, and that the `cryptography` package is installed (see Installation steps above).
 - If you have concerns about using my decryptor, please use the official MetaMask Vault decryptor listed above.
 
-### PS: My tool doesn't contain any backdoors or viruses, but if you want to use it 100% safely, create a live Ubuntu. It takes a few minutes but increases security. Because without the internet, no one can steal your data.
+PS: My tool doesn't contain any backdoors or viruses, but if you want to use it 100% safely, create a live Ubuntu. It takes a few minutes but increases security. Because without the internet, no one can steal your data.
 
 How to Make a Bootable Ubuntu USB:
 https://www.youtube.com/watch?v=Re2zIy64C5g
+
+You can easily upload Python files to ChatGPT and ask if the tool sends any data somewhere and you'll get an answer that says NO 😄<br>  
+I'm a MetaMask guide, not some clueless scammer.<br>
+Got questions? Ping me on Telegram anytime [t.me/Luigi_SK](https://t.me/Luigi_SK)
 
  ## 💖 Support the Project
 
