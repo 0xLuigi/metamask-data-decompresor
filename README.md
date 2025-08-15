@@ -74,7 +74,7 @@ PS: My tool doesn't contain any backdoors or viruses, but if you want to use it 
 How to Make a Bootable Ubuntu USB:
 https://www.youtube.com/watch?v=Re2zIy64C5g
 
-You can easily upload Python files to ChatGPT and ask if the tool sends any data somewhere and you'll get an answer that says NO 😄<br>  
+You can easily upload my Python files to ChatGPT and ask if the tool sends any data somewhere and you'll get an answer that says **NO** 😄<br>  
 I'm a MetaMask Guide 🦊 not some clueless scammer.<br>
 Got questions? Ping me on Telegram anytime [t.me/Luigi_SK](https://t.me/Luigi_SK)
 
